@@ -1,2 +1,2 @@
 # To_Do_List_React
-Created with CodeSandbox
+It is a to do list Web App made with React JS.
